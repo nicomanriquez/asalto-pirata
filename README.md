@@ -1,2 +1,2 @@
-# asalto-pirata
-juego de asalto pirata
+# InvasiónPirataEtapa-5
+animación de sprite agregada 
